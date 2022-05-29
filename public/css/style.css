@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.area-factura{
+    background: black;
+    height: 93vh;
+    width: 85vw;
+    margin: auto;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    padding: 50px 30px;
+}
+
+.invoice-personalInfo h3 {
+    font-weight:bolder;
+    margin-bottom: 15px;
+}
+.invoice-personalInfo p{
+    font-size:.8rem;
+}
+
+.invoice-clientInfo{
+    margin-top:15px;
+    display: flex;
+    justify-content:space-between;
+}
+
+.subtitles {
+    font-size:.8rem;
+    font-weight:bold;
+}
+
+.subtitles-details {
+    font-size:.7rem;
+}
