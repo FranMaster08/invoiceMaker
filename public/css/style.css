@@ -40,3 +40,42 @@
 .subtitles-details {
     font-size:.7rem;
 }
+
+.invoice-lineHigher {
+    width: 90%;
+    margin: 50px;
+    align-items:center;
+    text-align: center;
+    
+}
+.invoice-lineLower{
+    width: 90%;
+    margin: 50px;
+    align-items:center;
+    text-align: center;
+}
+ hr {
+     height: 2px;
+ }
+table {
+    width: 100%;
+}
+tr{
+    text-align: center;
+}
+/*.invoice-initialLine{
+    width: 90%;
+    height:5px;
+    margin: 50px;
+    align-items:center;
+    text-align: center;
+
+}
+.invoice-endline{
+    margin-top: 500px
+;
+    width: 90%;
+    margin: 50px;
+    align-items:center;
+    text-align: center;
+}*/
